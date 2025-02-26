@@ -1,5 +1,5 @@
 import os 
-
+# Sistema de gerenciamento de pousadas.
 usuarioLogado = False
 usuarios = [
         ["Carlos", "123456"],
